@@ -1,5 +1,5 @@
 /*****************************************************************
-	* A Rectangle is a Shape that madoubleains information about its width. A Rectangle
+	* A Rectangle is a Shape that maintains information about its width. A Rectangle
 	* knows how to return both its height and with, set its height and width, calculate and return its 
 	* height and width, and calculate and return its perimeter.
 	 
